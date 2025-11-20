@@ -11,7 +11,7 @@ academic instruction but also the broader well-being of student.
 
 graph of study hours per day vs exam score
 
-![Graph] https://github.com/jacktriger-debug/student-habits-performance/blob/main/Graph.bmp
+![Graph](https://github.com/jacktriger-debug/student-habits-performance/blob/main/Graph.bmp)
 
 i reallly enjoy the detacamp classes they easy to understand, simple and build good
 i enjoy the platform and user interface and i really love the AI feature that help
